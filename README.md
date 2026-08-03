@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gargkrish01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/gargkrish01/LeetCode/tree/master/0877-stone-game) |
 | [2652-sum-multiples](https://github.com/gargkrish01/LeetCode/tree/master/2652-sum-multiples) |
+| [3894-traffic-signal-color](https://github.com/gargkrish01/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Recursion
 |  |
 | ------- |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gargkrish01/LeetCode/tree/master/0877-stone-game) |
+## String
+|  |
+| ------- |
+| [3894-traffic-signal-color](https://github.com/gargkrish01/LeetCode/tree/master/3894-traffic-signal-color) |
+## Simulation
+|  |
+| ------- |
+| [3894-traffic-signal-color](https://github.com/gargkrish01/LeetCode/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
