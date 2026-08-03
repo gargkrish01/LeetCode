@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gargkrish01/LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/gargkrish01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/gargkrish01/LeetCode/tree/master/0877-stone-game) |
 | [2652-sum-multiples](https://github.com/gargkrish01/LeetCode/tree/master/2652-sum-multiples) |
 | [3894-traffic-signal-color](https://github.com/gargkrish01/LeetCode/tree/master/3894-traffic-signal-color) |
@@ -50,9 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gargkrish01/LeetCode/tree/master/0013-roman-to-integer) |
 | [3894-traffic-signal-color](https://github.com/gargkrish01/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
 | [3894-traffic-signal-color](https://github.com/gargkrish01/LeetCode/tree/master/3894-traffic-signal-color) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/gargkrish01/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
