@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/gargkrish01/LeetCode/tree/master/0090-subsets-ii) |
 | [0877-stone-game](https://github.com/gargkrish01/LeetCode/tree/master/0877-stone-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gargkrish01/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3731-find-missing-elements](https://github.com/gargkrish01/LeetCode/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -63,8 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/gargkrish01/LeetCode/tree/master/0013-roman-to-integer) |
+| [3731-find-missing-elements](https://github.com/gargkrish01/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gargkrish01/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/gargkrish01/LeetCode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
