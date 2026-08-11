@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/gargkrish01/LeetCode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/gargkrish01/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/gargkrish01/LeetCode/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gargkrish01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargkrish01/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2652-sum-multiples](https://github.com/gargkrish01/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/gargkrish01/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gargkrish01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/gargkrish01/LeetCode/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gargkrish01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gargkrish01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gargkrish01/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gargkrish01/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
