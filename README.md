@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gargkrish01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gargkrish01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gargkrish01/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gargkrish01/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gargkrish01/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gargkrish01/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gargkrish01/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/gargkrish01/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/gargkrish01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/gargkrish01/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gargkrish01/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/gargkrish01/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [3894-traffic-signal-color](https://github.com/gargkrish01/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
