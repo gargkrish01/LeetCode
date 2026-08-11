@@ -8,14 +8,6 @@ class Solution {
         for(String s : word2){
             str2+=s;
         }
-        if(str1.length()!=str2.length()){
-            return false;
-        }
-        for(int i=0;i<str1.length();i++){
-            if(str1.charAt(i)!=str2.charAt(i)){
-                return false;
-            }
-        }
-        return true;
+        return str1.equals(str2);
     }
 }
