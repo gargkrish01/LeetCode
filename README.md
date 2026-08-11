@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/gargkrish01/LeetCode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/gargkrish01/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/gargkrish01/LeetCode/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargkrish01/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2652-sum-multiples](https://github.com/gargkrish01/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/gargkrish01/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gargkrish01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/gargkrish01/LeetCode/tree/master/0090-subsets-ii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargkrish01/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
