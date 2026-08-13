@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gargkrish01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gargkrish01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gargkrish01/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1572-matrix-diagonal-sum](https://github.com/gargkrish01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gargkrish01/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gargkrish01/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gargkrish01/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gargkrish01/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/gargkrish01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
