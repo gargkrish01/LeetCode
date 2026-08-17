@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gargkrish01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/gargkrish01/LeetCode/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/gargkrish01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/gargkrish01/LeetCode/tree/master/0090-subsets-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gargkrish01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/gargkrish01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gargkrish01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/gargkrish01/LeetCode/tree/master/0287-find-the-duplicate-number) |
