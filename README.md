@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gargkrish01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/gargkrish01/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/gargkrish01/LeetCode/tree/master/0118-pascals-triangle) |
+| [0287-find-the-duplicate-number](https://github.com/gargkrish01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gargkrish01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/gargkrish01/LeetCode/tree/master/0877-stone-game) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/gargkrish01/LeetCode/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/gargkrish01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargkrish01/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gargkrish01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gargkrish01/LeetCode/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/gargkrish01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gargkrish01/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gargkrish01/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/gargkrish01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gargkrish01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gargkrish01/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Enumeration
@@ -186,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0912-sort-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gargkrish01/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gargkrish01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
