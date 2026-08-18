@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/gargkrish01/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/gargkrish01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/gargkrish01/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0520-detect-capital](https://github.com/gargkrish01/LeetCode/tree/master/0520-detect-capital) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gargkrish01/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/gargkrish01/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [2325-decode-the-message](https://github.com/gargkrish01/LeetCode/tree/master/2325-decode-the-message) |
