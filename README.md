@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gargkrish01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/gargkrish01/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/gargkrish01/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/gargkrish01/LeetCode/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/gargkrish01/LeetCode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/gargkrish01/LeetCode/tree/master/0509-fibonacci-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gargkrish01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/gargkrish01/LeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/gargkrish01/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/gargkrish01/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/gargkrish01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/gargkrish01/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/gargkrish01/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gargkrish01/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/gargkrish01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/gargkrish01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Divide and Conquer
