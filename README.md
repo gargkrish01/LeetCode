@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gargkrish01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gargkrish01/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/gargkrish01/LeetCode/tree/master/0066-plus-one) |
+| [0263-ugly-number](https://github.com/gargkrish01/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/gargkrish01/LeetCode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/gargkrish01/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/gargkrish01/LeetCode/tree/master/0877-stone-game) |
