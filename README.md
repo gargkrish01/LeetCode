@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gargkrish01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/gargkrish01/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/gargkrish01/LeetCode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/gargkrish01/LeetCode/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/gargkrish01/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/gargkrish01/LeetCode/tree/master/0520-detect-capital) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gargkrish01/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/gargkrish01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gargkrish01/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gargkrish01/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/gargkrish01/LeetCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gargkrish01/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/gargkrish01/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gargkrish01/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/gargkrish01/LeetCode/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/gargkrish01/LeetCode/tree/master/0912-sort-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gargkrish01/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Pigeonhole Principle
