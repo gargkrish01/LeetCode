@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/gargkrish01/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/gargkrish01/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gargkrish01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gargkrish01/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3894-traffic-signal-color](https://github.com/gargkrish01/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Recursion
 |  |
